@@ -1,6 +1,6 @@
 # Mern Stack Developer
 
-#### Technical Skills: 
+## Technical Skills: 
 - Frontend: HTML, CSS, Bootstrap, JavaScript, React.js*
 - Backend: Python, Express, Node.js
 - Databases: SQLite
