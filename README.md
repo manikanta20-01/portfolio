@@ -1,6 +1,6 @@
 # Namo Manikanta Sai Pilli - Portfolio
 
-![Profile Picture](https://github.com/manikanta20-01/portfolio/blob/main/assets/photo_2023-09-27_13-08-16.jpg)
+![Profile Picture](https://github.com/manikanta20-01/portfolio/blob/main/assets/profile.jpg)
 
 ## Contact Information
 
