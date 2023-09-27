@@ -4,8 +4,7 @@
 - Frontend: HTML, CSS, Bootstrap, JavaScript, React.js*
 - Backend: Python, Express, Node.js
 - Databases: SQLite
-- Other skills: AWS, C, C++, Data Analytics, Data Structures & Algorithms, Express(node),
-  Flexbox, Git, Java, Linux, OOPs
+- Other skills: AWS, C, C++, Data Analytics, Data Structures & Algorithms, Express(node), Flexbox, Git, Java, Linux, OOPs
 - MS Excel, MS Office, MS Word
 
 ## Education
