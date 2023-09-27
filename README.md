@@ -1,12 +1,12 @@
 # Mern Stack Developer
 
 #### Technical Skills: 
-• Frontend: HTML, CSS, Bootstrap, JavaScript, React.js*
-• Backend: Python, Express, Node.js
-• Databases: SQLite
-• Other skills: AWS, C, C++, Data Analytics, Data Structures & Algorithms, Express(node),
-Flexbox, Git, Java, Linux, OOPs
-• MS Excel, MS Office, MS Word
+- Frontend: HTML, CSS, Bootstrap, JavaScript, React.js*
+- Backend: Python, Express, Node.js
+- Databases: SQLite
+- Other skills: AWS, C, C++, Data Analytics, Data Structures & Algorithms, Express(node),
+  Flexbox, Git, Java, Linux, OOPs
+- MS Excel, MS Office, MS Word
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
