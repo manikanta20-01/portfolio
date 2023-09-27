@@ -1,60 +1,82 @@
-# Mern Stack Developer
+# Namo Manikanta Sai Pilli - Portfolio
 
-## Technical Skills: 
-- Frontend: HTML, CSS, Bootstrap, JavaScript, React.js*
-- Backend: Python, Express, Node.js
-- Databases: SQLite
-- Other skills: AWS, C, C++, Data Analytics, Data Structures & Algorithms, Express(node), Flexbox, Git, Java, Linux, OOPs
-- MS Excel, MS Office, MS Word
+![Profile Picture]()
+
+## Contact Information
+
+- **Address:** Hyderabad, Andhra Pradesh, 500027
+- **Phone:** 9985251943
+- **Email:** manikantanamo@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/namo-manikanta-sai-31b805253)
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- **Industry Ready Certification in Full-stack Development**
+  - *Jul '22 - Ongoing*
+  - Nxtwave Disruptive Technologies
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **B.Sc, Computer Science**
+  - *2018 - 2022*
+  - Visakhapatnam
+  - BSc (Bachelor of Science), 7.8 CGPA
+
+- **Intermediate (MPC)**
+  - *2016 - 2018*
+  - Tulasi Murari Junior College, Visakhapatnam
+  - 86.5%
+
+- **Secondary School Of Certificate**
+  - *2015 - 2016*
+  - Prasanth Vidya Nikethan, Kutukuluru
+  - 85.0%
+
+## Technical Skills
+
+- **Frontend:**
+  - HTML, CSS, Bootstrap, JavaScript, React.js
+
+- **Backend:**
+  - Python, Express, Node.js
+
+- **Databases:**
+  - SQLite
+
+- **Other Skills:**
+  - AWS, C, C++, Data Analytics, Data Structures & Algorithms, Express(node), Flexbox, Git, Java, Linux, OOPs
+  - MS Excel, MS Office, MS Word
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Todos Application
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Developed a persistent todo application with CRUD operations to track a list of tasks.
+- Displayed list of todos with HTML list elements, styled todo list using CSS, Bootstrap.
+- Implemented todo CRUD operations using JavaScript event listeners and updated UI dynamically using JavaScript DOM operations.
+- Used Arrays, Objects and their methods during todolist CRUD Operations, Persisted todo list state on page reloads using local storage methods.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### My Projects
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Developed a website where people like interviewers can see a list of projects that a person has implemented.
+- Designed a banner section and the project cards using different HTML block, inline elements.
+- Styled the website using CSS3 properties such as background, flex, and CSS box model properties and relative units such as vh, vw, and used absolute units such as px.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Portfolio Website
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Developed a responsive website for Portfolio of a person where other people like interviewers can see a list of projects, skills, testimonials, contact info.
+- Designed page by using HTML structure elements and by using different bootstrap components to show different sections on the website and different Bootstrap classes for responsiveness through a mobile-first approach.
+- Displayed testimonials from different people using bootstrap carousel components.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Image Gallery
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- An image gallery website built using React JS and APIs provides users with an interactive platform to browse and view various images.
+- Built on a React JS framework, providing a robust and flexible approach to building user interfaces.
+- Highly responsive and performs seamlessly across various devices and browsers.
+- Utilizes APIs to fetch data and perform various operations, organizing images into categories and subcategories.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## GitHub Pages
+
+For more details about these projects and to view the source code, please visit my [GitHub Profile](https://github.com/yourgithubusername).
+
+---
+
+*Note: Replace "yourgithubusername" with your actual GitHub username in the link above.*
