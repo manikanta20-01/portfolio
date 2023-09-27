@@ -48,11 +48,12 @@
 ## Projects
 
 ### Todos Application 
-Check out my Todos Application [here](https://manikanta001.ccbp.tech/)!
+
 - Developed a persistent todo application with CRUD operations to track a list of tasks.
 - Displayed list of todos with HTML list elements, styled todo list using CSS, Bootstrap.
 - Implemented todo CRUD operations using JavaScript event listeners and updated UI dynamically using JavaScript DOM operations.
 - Used Arrays, Objects and their methods during todolist CRUD Operations, Persisted todo list state on page reloads using local storage methods.
+  Check out my Todos Application [here](https://manikanta001.ccbp.tech/)
 
 ### My Projects
 
