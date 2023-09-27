@@ -66,17 +66,4 @@
 - Designed page by using HTML structure elements and by using different bootstrap components to show different sections on the website and different Bootstrap classes for responsiveness through a mobile-first approach.
 - Displayed testimonials from different people using bootstrap carousel components.
 
-### Image Gallery
 
-- An image gallery website built using React JS and APIs provides users with an interactive platform to browse and view various images.
-- Built on a React JS framework, providing a robust and flexible approach to building user interfaces.
-- Highly responsive and performs seamlessly across various devices and browsers.
-- Utilizes APIs to fetch data and perform various operations, organizing images into categories and subcategories.
-
-## GitHub Pages
-
-For more details about these projects and to view the source code, please visit my [GitHub Profile](https://github.com/yourgithubusername).
-
----
-
-*Note: Replace "yourgithubusername" with your actual GitHub username in the link above.*
